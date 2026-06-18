@@ -1,3 +1,4 @@
+package Graphs;
 import java.util.*;
 public class AllPaths {
     public static void allPaths(int node, int[][] graph, List<Integer> path, List<List<Integer>> result){

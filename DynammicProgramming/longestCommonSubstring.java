@@ -1,9 +1,11 @@
+package DynammicProgramming;
 import java.util.*;
 
 public class longestCommonSubstring {
     public static int solution(String str1, String str2){
         int n = str1.length();
         int m = str2.length();
+        
 
         int[][] dp = new int[n+1][m+1];
 

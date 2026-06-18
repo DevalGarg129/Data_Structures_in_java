@@ -1,3 +1,4 @@
+package HashSet;
 import java.util.*;
 
 public class containsDuplicate {
@@ -9,7 +10,8 @@ public class containsDuplicate {
             }
             set.add(num);
         }
-        return false;
+        return false
+        ;
     }
     public static void main(String[] args){
         int[] nums = {1,2,2,3,4,5,2,9};

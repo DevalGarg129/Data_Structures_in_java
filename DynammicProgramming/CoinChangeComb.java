@@ -1,3 +1,4 @@
+package DynammicProgramming;
 import java.util.*;
 
 public class CoinChangeComb {

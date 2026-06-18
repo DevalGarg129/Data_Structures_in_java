@@ -1,3 +1,4 @@
+package SlidingWindow;
 //longest subarray with k distinct elements
 import java.util.*;
 public class LSKDistinct {

@@ -1,3 +1,4 @@
+package SlidingWindow;
 //Longest substring without repeating characters
 import java.util.*;
 public class LSWRepeating {
